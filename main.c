@@ -1,12 +1,6 @@
 #include <stdio.h>
-
-float simpleDiv(float a, float b) {
-  return a / b;
-}
-
-float simpleMult(float a, float b) {
-  return a * b;
-}
+#include "div.c"
+#include "mult.c"
 
 int main(void) {
 
