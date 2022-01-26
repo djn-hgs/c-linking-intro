@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "div.c"
-#include "mult.c"
+#include "div.h"
+#include "mult.h"
 
 int main(void) {
 
