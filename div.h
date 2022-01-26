@@ -1,5 +1,5 @@
-#ifndef MULT_HEADER
-#define MULT_HEADER
+#ifndef DIV_HEADER
+#define DIV_HEADER
 
 float simpleDiv(float a, float b);
 
